@@ -1,0 +1,23 @@
+{
+  "name": "form-validation-js",
+  "version": "0.0.1",
+  "description": "A form validation implemented with Vanilla javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shengt/form-validation-js.git"
+  },
+  "keywords": [
+    "form",
+    "validation"
+  ],
+  "author": "Sheng Tian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shengt/form-validation-js/issues"
+  },
+  "homepage": "https://github.com/shengt/form-validation-js#readme"
+}
