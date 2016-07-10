@@ -1,0 +1,21 @@
+{
+  "name": "form-validation-js",
+  "description": "A form validation implemented with Vanilla javascript",
+  "main": "index.js",
+  "authors": [
+    "Sheng Tian"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "form",
+    "validation"
+  ],
+  "homepage": "https://github.com/shengt/form-validation-js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
